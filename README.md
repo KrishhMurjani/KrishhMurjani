@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @KrishhMurjani
-- 👀 I’m interested in data analytics
-- 🌱 I’m currently learning data analytics
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m learning artificial intelligence and machine learning 
 - 📫 How to reach me krishhmurjani@gmail.com
 
 <!---
